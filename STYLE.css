@@ -1,0 +1,36 @@
+body, h4, br{
+    font-family: bold, 'calibri';
+    background-color: rgb(178, 184, 236);
+}
+h4{
+    font-style: normal;
+}
+table td{
+    border: 1px solid rgba(0, 0, 0, 0.466)
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+    box-shadow: 0px, 5px, 3px, -5px;
+    margin: 10px auto;
+    background-color: rgb(136, 176, 250);
+}
+
+td, p{
+    text-align: center;
+    padding: 0px;
+}
+p{
+    line-height: 1.5;
+}
+.fifth{
+    background-color: yellow;
+}
+.white{
+    background-color: white;
+}
+tr:hover{
+background-color: rgba(66, 92, 238, 0.863);
+border-color: rgb(182, 54, 54);
+border: 1px 3px 1px -1px;
+}
